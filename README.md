@@ -35,4 +35,3 @@ By Day 356, I'll have:
 - Multiple completed projects.
 - A portfolio I'm proud of.
 - AI/ML skills and real-world experience.
-Update README for Day 2
