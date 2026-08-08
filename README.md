@@ -18,6 +18,10 @@ To become a world-class Software Engineer and AI Engineer through 356 days of co
   - Created this GitHub repository.
   - Learned how GitHub repositories, READMEs, and commits work.
   - Prepared a place to document my daily progress.
+ - ✅ Day 3
+ - Learnt about Boolean and Conditionals
+ - Coded with python reflecting if, elif, else
+ - created a program leap_year.py that determines if a year is a leap year according to the Georgian calendar 
 
 ---
 
