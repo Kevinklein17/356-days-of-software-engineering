@@ -23,9 +23,11 @@ To become a world-class Software Engineer and AI Engineer through 356 days of co
  - Coded with python reflecting if, elif, else
  - created a program leap_year.py that determines if a year is a leap year according to the Georgian calendar
 - ✅ Day 4
-- Learnt about loops (for loops, while loops)
+ - Learnt about loops (for loops, while loops)
  
-
+-✅ Day 5
+ - learnt about functions, scope and the call stack
+ - parameters vs arguments 
 ---
 
 ## 📌 Rules
