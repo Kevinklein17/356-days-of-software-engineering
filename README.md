@@ -27,8 +27,12 @@ To become a world-class Software Engineer and AI Engineer through 356 days of co
  
 -✅ Day 5
  - learnt about functions, scope and the call stack
- - parameters vs arguments 
+ - parameters vs arguments
+- ✅ Day 6
+ - Exception handling and debugging
+  
 ---
+
 
 ## 📌 Rules
 - Learn something every day.
