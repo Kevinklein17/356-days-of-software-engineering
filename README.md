@@ -30,6 +30,9 @@ To become a world-class Software Engineer and AI Engineer through 356 days of co
  - parameters vs arguments
 - ✅ Day 6
  - Exception handling and debugging
+-✅ Day 7
+ -Data structures (lists, tuples, dict)
+ -
   
 ---
 
